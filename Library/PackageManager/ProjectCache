@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638330860510000000
-    m_Hash: 438643554
+      ticks: 638688389158706946
+    m_Hash: 422180192
   m_LockFileStatus:
     m_FilePath: C:/Users/Mega Pc/Documents/Unreal Projects/Crypt-of-the-Clown/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638330860510000000
-    m_Hash: 3598202586
+      ticks: 638688389158716948
+    m_Hash: 1662660254
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -235,6 +235,7 @@ m_ResolvedPackages:
     - 2.0.0
     - 2.0.3
     - 2.0.4
+    - 2.0.5
     compatible:
     - 1.1.4
     - 1.1.5
@@ -481,6 +482,7 @@ m_ResolvedPackages:
     - 2.10.0
     - 2.10.1
     - 2.10.2
+    - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -498,6 +500,7 @@ m_ResolvedPackages:
     - 2.10.0
     - 2.10.1
     - 2.10.2
+    - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -669,6 +672,7 @@ m_ResolvedPackages:
     - 2.4.4
     - 2.5.1
     - 2.5.2
+    - 2.6.0
     compatible:
     - 2.0.5
     - 2.0.7
@@ -682,6 +686,7 @@ m_ResolvedPackages:
     - 2.4.4
     - 2.5.1
     - 2.5.2
+    - 2.6.0
     recommended: 2.0.7
     deprecated: []
   dependencies: []
@@ -3823,6 +3828,7 @@ m_ResolvedPackages:
     - 1.12.4
     - 1.12.5
     - 1.13.0
+    - 1.14.0
     compatible:
     - 1.10.1
     - 1.11.0
@@ -3832,6 +3838,7 @@ m_ResolvedPackages:
     - 1.12.4
     - 1.12.5
     - 1.13.0
+    - 1.14.0
     recommended: 1.10.1
     deprecated: []
   dependencies:
