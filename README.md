@@ -40,7 +40,11 @@ In *Crypt of the Clown*, players must use their wits and stealth to survive. The
 
 ## 📷 Screenshots
 
-(Add screenshots or GIFs showcasing gameplay, puzzles, and the menacing clown.)
+![WhatARide4](./Imgs/clown.png)
+![WhatARide4](./Imgs/clown1.png)
+![WhatARide4](./Imgs/clown2.png)
+![WhatARide4](./Imgs/clown3.png)
+![WhatARide4](./Imgs/clown4.png)
 
 ## 📂 How to Play
 
